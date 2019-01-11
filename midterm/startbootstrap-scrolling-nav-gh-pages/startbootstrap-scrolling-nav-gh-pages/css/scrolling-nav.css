@@ -1,0 +1,81 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+/*Joohyeonggyu
+UI_UX class, Bootstrap sample file1, CSS File*/
+
+body {
+
+
+background-color:coral;
+color:ghostwhite;
+
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+
+  font-family: 'Staatliches', cursive;
+  font-family: 'Gochi Hand', cursive;
+}
+
+/* Adding my own header color style. */
+.headerStyle{
+
+  color: powderblue;
+  background-color: #0c85f7
+
+}
+
+.headerStyle:hover{
+  color: whitesmoke;
+}
+
+header {
+  padding: 250px 0 200px;
+  
+
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;  
+    background-image: url("https://postfiles.pstatic.net/MjAxODExMjdfNzEg/MDAxNTQzMzI2Njg0NzYy.SGd2riR4i_jdCfg4FNfhEUozH7wNfBwdpD8xNV_fsGkg.u9ZrpyXg9azCloa4RpQrVA4uaLLzde2T5dFaxSg2hGsg.JPEG.jackiekim7/image_2442378161543323841038.jpg?type=w966");
+ 
+    /* Center and position the image */
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* @media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+} */
+
+
+section {
+  padding: 150px 0;
+}
+
+tallCol
+{
+  padding: 100px 5%;
+  text: center;
+}
+
+.img-fluid{
+  width:100%;
+  height:50%;
+ }
+  */
